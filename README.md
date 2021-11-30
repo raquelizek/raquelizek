@@ -1,4 +1,5 @@
-### Hi there 👋
+### Oi, bem-vindo ao meu GitHub![image](https://user-images.githubusercontent.com/67245667/144094923-448f0600-ce36-4e98-9fb6-d01e4b1cc2ba.png)
+
 
 <!--
 **raquelizek/raquelizek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
