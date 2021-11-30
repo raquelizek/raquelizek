@@ -5,10 +5,12 @@
 </a>
  <a href="https://www.linkedin.com/in/raquel-reclizek-939171174/">
 <img align="right" alt="Linkedin de Raquel" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/linkedin.svg" style="max-width: 100%;">
-
-
-<img align="right" alt="Braydon's Instagram" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/instagram.png" style="max-width: 100%;">
-<img align="right" alt="Braydon's Github" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/github.svg" style="max-width: 100%;">
+</a>
+<a href="https://www.instagram.com/raquelizek/">
+<img align="right" alt="Instagram de Raquel" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/instagram.png" style="max-width: 100%;">
+</a>
+<a href="https://github.com/raquelizek">
+<img align="right" alt="GitHub de Raquel" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/github.svg" style="max-width: 100%;">
 
 </h1>
 
