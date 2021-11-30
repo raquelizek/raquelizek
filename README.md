@@ -15,11 +15,7 @@
 <img align="right" alt="GitHub de Raquel" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/github.svg" style="max-width: 100%;">
  </a>
 </h1>
-
 Oi! Me chamo Raquel e atualmente estudo no Instituto Federal de Goiás cursando Bacharelado em Sistemas de Informação. Eu sou uma estudante ávida quando o assunto envolve tecnologia, pois sou fascinada por todas as coisas que a tecnologia é capaz de fazer, e tento me manter atualizada sempre.
-
-
-
 
 <ul dir="auto">
 <li><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/00e83015d8faeb60cc8d6ac61327ea602a9ff204c05be3bbd668fe65f3939dea/68747470733a2f2f7777772e666c617469636f6e2e636f6d2f7376672f7374617469632f69636f6e732f7376672f3139372f3139373338362e737667"><img width="16" src="https://img.freepik.com/vetores-gratis/bandeira-do-brasil-com-inscricao_24908-54696.jpg?size=338&ext=jpg" alt="Brazil" data-canonical-src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" style="max-width: 100%;"></a> Eu sou Brasileira.</li>
@@ -44,21 +40,3 @@ Oi! Me chamo Raquel e atualmente estudo no Instituto Federal de Goiás cursando 
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" height="auto" width="40" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg"><img src="https://www.php.net/images/logos/new-php-logo.svg" height="auto" width="70" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg"><img src="https://cdn.freebiesupply.com/logos/large/2x/composer-logo-svg-vector.svg" height="auto" width="40" style="max-width: 100%;"></a>
-
-
-
-
-<!--
-**raquelizek/raquelizek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
