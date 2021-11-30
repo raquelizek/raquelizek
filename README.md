@@ -1,3 +1,5 @@
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"><img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;"></a></p>
+
 <h1 dir="auto"><a id="user-content--hi-im-braydon-wang" class="anchor" aria-hidden="true" href="#-hi-im-braydon-wang"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/braydonwang/braydonwang/main/wave.gif"><img src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/wave.gif" width="30px" style="max-width: 100%;"></a> Oi, bem-vindo(a) ao meu GitHub! 
 
  <a href="mailto: raquelreclizek@gmail.com">
@@ -11,13 +13,13 @@
 </a>
 <a href="https://github.com/raquelizek">
 <img align="right" alt="GitHub de Raquel" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/github.svg" style="max-width: 100%;">
-
+ </a>
 </h1>
 
+Oi! Me chamo Raquel e atualmente estudo no Instituto Federal de Goiás cursando Bacharelado em Sistemas de Informação. Eu sou uma estudante ávida quando o assunto envolve tecnologia, pois sou fascinada por todas as coisas que a tecnologia é capaz de fazer.
 
 
 
-<h2 dir="auto"><a id="user-content--about-me" class="anchor" aria-hidden="true" href="#-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="woman_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png">👩🏼💻</g-emoji> Sobre mim</h2>
 
 <ul dir="auto">
 <li><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/00e83015d8faeb60cc8d6ac61327ea602a9ff204c05be3bbd668fe65f3939dea/68747470733a2f2f7777772e666c617469636f6e2e636f6d2f7376672f7374617469632f69636f6e732f7376672f3139372f3139373338362e737667"><img width="16" src="https://img.freepik.com/vetores-gratis/bandeira-do-brasil-com-inscricao_24908-54696.jpg?size=338&ext=jpg" alt="Brazil" data-canonical-src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" style="max-width: 100%;"></a> Eu sou Brasileira.</li>
