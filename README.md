@@ -1,4 +1,4 @@
-### Oi, bem-vindo ao meu GitHub! style="padding-left: 12px;" ![image](https://user-images.githubusercontent.com/67245667/144095498-03ab3c0d-ff08-44eb-ae57-3fe72992196b.png)
+### Oi, bem-vindo ao meu GitHub! 
 
 
 
