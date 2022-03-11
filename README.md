@@ -24,7 +24,7 @@ Oi! Me chamo Raquel e atualmente estudo no Instituto Federal de Goiás cursando 
  <img src="https://i.ibb.co/b633qsV/Pics-Art-11-30-03-56-57.png" align="right" height="auto" width="200" style="max-width: 100%;"></a>
 <li><g-emoji class="g-emoji" alias="woman_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f3eb.png">
 👩🏼‍🎓</g-emoji> Amo aprender coisas novas e compartilhar conhecimento.</li>
-<li><g-emoji class="g-emoji" alias="national_park" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3de.png">💻💪</g-emoji> Atualmente estou tentando dominar Laravel.</li>
+<li><g-emoji class="g-emoji" alias="national_park" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3de.png">💻💪</g-emoji> Atualmente estou tentando dominar JavaScript.</li>
  <li><g-emoji class="g-emoji" alias="national_park" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3de.png">🌱</g-emoji> Sou apaixonada por plantas e utilizo algum tempo do meu horário vago para cuidar delas.</li>
  <li><g-emoji class="g-emoji" alias="national_park" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3de.png">📚</g-emoji> Gosto de ler muitos livros, principalmente os de gênero de suspense. Gosto de estudar algumas coisas à parte através da leitura, como por exemplo, assuntos relacionado a psicologia.</li>
 </ul>
@@ -41,3 +41,7 @@ Oi! Me chamo Raquel e atualmente estudo no Instituto Federal de Goiás cursando 
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg"><img src="https://www.php.net/images/logos/new-php-logo.svg" height="auto" width="70" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg"><img src="https://cdn.freebiesupply.com/logos/large/2x/composer-logo-svg-vector.svg" height="auto" width="40" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png" height="auto" width="40" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="auto" width="40" style="max-width: 90%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/512px-Nuxt_logo.svg.png?20201218211241" height="auto" width="40" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg"><img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" height="auto" width="40" style="max-width: 100%;"></a>
+
