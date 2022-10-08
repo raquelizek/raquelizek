@@ -31,7 +31,6 @@
 - **I am a ***HUGE The Office fan***⚡**
 - **I'm a hopeful web developer 💻**
 - **I am a true psychology lover 🧠**
-- **Finally, I'm a football-watching frenzy ⚽!**
 
 <h3 align="left">Languages and Tools:</h3>
 <a target="_blank" align="center">
