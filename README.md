@@ -1,47 +1,99 @@
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"><img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;"></a></p>
-
-<h1 dir="auto"><a id="user-content--hi-im-braydon-wang" class="anchor" aria-hidden="true" href="#-hi-im-braydon-wang"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Oi, bem-vindo(a) ao meu GitHub! 
-
- <a href="mailto: raquelreclizek@gmail.com">
- <img align="right" alt="Email de Raquel" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/mail.png" style="max-width: 100%;">
-</a>
- <a href="https://www.linkedin.com/in/raquel-reclizek-939171174/">
-<img align="right" alt="Linkedin de Raquel" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/linkedin.svg" style="max-width: 100%;">
-</a>
-<a href="https://www.instagram.com/raquelizek/">
-<img align="right" alt="Instagram de Raquel" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/instagram.png" style="max-width: 100%;">
-</a>
-<a href="https://github.com/raquelizek">
-<img align="right" alt="GitHub de Raquel" width="32px" src="https://raw.githubusercontent.com/braydonwang/braydonwang/main/github.svg" style="max-width: 100%;">
- </a>
+<h1 align="center">
+  <div align=center>
+    <img
+      src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Raquel+%F0%9F%91%8B;Front-End+Developer;Open-Source+Enthusiast;Problem+Solver;"
+      alt="Headline" />
+  </div>
 </h1>
-Oi! Me chamo Raquel e atualmente estudo no Instituto Federal de Goiás cursando Bacharelado em Sistemas de Informação. Eu sou uma estudante ávida quando o assunto envolve tecnologia, pois sou fascinada por todas as coisas que a tecnologia é capaz de fazer, e tento me manter atualizada sempre.
 
-<ul dir="auto">
-<li><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/00e83015d8faeb60cc8d6ac61327ea602a9ff204c05be3bbd668fe65f3939dea/68747470733a2f2f7777772e666c617469636f6e2e636f6d2f7376672f7374617469632f69636f6e732f7376672f3139372f3139373338362e737667"><img width="16" src="https://img.freepik.com/vetores-gratis/bandeira-do-brasil-com-inscricao_24908-54696.jpg?size=338&ext=jpg" alt="Brazil" data-canonical-src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" style="max-width: 100%;"></a> Eu sou Brasileira.</li>
-<li><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/cb0aaad18421e0f6e78e5c9db04b496487ffa815459a00889f7fd200184c503f/68747470733a2f2f61626f75742e6769746c61622e636f6d2f696d616765732f626c6f67696d616765732f4769744c61622d4465762e706e67"><img width="16" src="https://camo.githubusercontent.com/cb0aaad18421e0f6e78e5c9db04b496487ffa815459a00889f7fd200184c503f/68747470733a2f2f61626f75742e6769746c61622e636f6d2f696d616765732f626c6f67696d616765732f4769744c61622d4465762e706e67" alt="" data-canonical-src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" style="max-width: 100%;"></a> Amo Programar</li>
-<li><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/8189f2ee1a17bae39d5d80aac35701add11c79eacc3a84eaf4971d63998e87a0/68747470733a2f2f63646e332e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f6c6f676f732d616e642d6272616e64732d61646f62652f3531322f3236375f507974686f6e2d3531322e706e67"><img width="16" src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-svg-vector.svg" alt="" data-canonical-src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" style="max-width: 100%;"></a> Minha linguagem de programação favorita é PHP.</li>
- <img src="https://i.ibb.co/b633qsV/Pics-Art-11-30-03-56-57.png" align="right" height="auto" width="200" style="max-width: 100%;"></a>
-<li><g-emoji class="g-emoji" alias="woman_teacher" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f3eb.png">
-👩🏼‍🎓</g-emoji> Amo aprender coisas novas e compartilhar conhecimento.</li>
-<li><g-emoji class="g-emoji" alias="national_park" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3de.png">💻💪</g-emoji> Atualmente estou tentando dominar JavaScript.</li>
- <li><g-emoji class="g-emoji" alias="national_park" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3de.png">🌱</g-emoji> Sou apaixonada por plantas e utilizo algum tempo do meu horário vago para cuidar delas.</li>
- <li><g-emoji class="g-emoji" alias="national_park" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3de.png">📚</g-emoji> Gosto de ler muitos livros, principalmente os de gênero de suspense. Gosto de estudar algumas coisas à parte através da leitura, como por exemplo, assuntos relacionado a psicologia.</li>
-</ul>
+<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30">Connect
+  with me 🤝 </h3>
 
-<h2 dir="auto"><a id="user-content-skill-set" class="anchor" aria-hidden="true" href="#skill-set"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Habilidades que possuo ou estou desenvolvendo:</h2>
+<p align="center">
+
+<div align="center" class="icons-social" style="margin-left: 10px;">
+  <a href="https://www.linkedin.com/in/raquel-reclizek/" target="blank"><img align="center"
+      src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="azzar" height="30" /></a>
+  <a href="mailto: raquelreclizek@gmail.com" target="blank"><img align="center"
+      src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="azzar"
+      height="30" /></a>
+  <a href="https://www.instagram.com/raquelizek/" target="blank"><img align="center"
+      src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+      alt="azzar" height="30" /></a>
+  </p>
+</div>
+
+</p>
+<br>
+<h3> Here's some fun facts about me: </h3>
+
+- **I am a ***HUGE The Office fan***⚡**
+- **I'm a hopeful web developer 💻**
+- **I am a true psychology lover 🧠**
+- **Finally, I'm a football-watching frenzy ⚽!**
+
+<h3 align="left">Languages and Tools:</h3>
+<a target="_blank" align="center">
+  <img src="https://i.ibb.co/b633qsV/Pics-Art-11-30-03-56-57.png" align="right" height="auto" width="200"
+    style="max-width: 100%;">
+
+</a>
+
+
+<h4>✔️ Experience:</h4>
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/javascript-plain.svg"><img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/javascript-plain.svg" height="auto" width="40" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/css3-original.svg"><img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/css3-original.svg" height="auto" width="40" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/html5-original.svg"><img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/html5-original.svg" height="auto" width="40" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg"><img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg" height="auto" width="40" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/jquery-plain.svg"><img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/jquery-plain.svg" height="auto" width="40" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" height="auto" width="40" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/240px-Python-logo-notext.svg.png" height="auto" width="40" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" height="auto" width="40" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg"><img src="https://www.php.net/images/logos/new-php-logo.svg" height="auto" width="70" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg"><img src="https://cdn.freebiesupply.com/logos/large/2x/composer-logo-svg-vector.svg" height="auto" width="40" style="max-width: 100%;"></a>
+<br>
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="auto" width="40" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg"><img src="https://www.freepnglogos.com/uploads/linux-png/linux-tux-logo-png-transparent-svg-vector-bie-supply-14.png" height="auto" width="40" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg"><img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png" height="auto" width="40" style="max-width: 100%;"></a>
+
+
+
+<h4>🚧 Learning:</h4> 
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" height="auto" width="38" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="auto" width="40" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" height="auto" width="40" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png" height="auto" width="40" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="auto" width="40" style="max-width: 90%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/512px-Nuxt_logo.svg.png?20201218211241" height="auto" width="40" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="auto" width="35" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/512px-Nuxt_logo.svg.png?20201218211241" height="auto" width="47" style="max-width: 100%;"></a>
+<br>
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1280px-SQLite370.svg.png" height="auto" width="52" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" height="auto" width="42" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg"><img src="https://cdn.worldvectorlogo.com/logos/docker.svg" height="auto" width="40" style="max-width: 100%;"></a>
 
+### Work experience
+
+<img align="left" height="94px" width="94px" alt="Omny" src="https://media-exp1.licdn.com/dms/image/C4D0BAQE_AEazyT664Q/company-logo_200_200/0/1648152856557?e=1673481600&v=beta&t=FQg9fF8IvasoGXi5Q1r7jtPmEEDQUeRJVe3xwrTHFSI"/>
+
+**Front-End Developer (Jr)** \
+**07/22** • **Present** \
+Languages & Tools: `JavaScript`, `CSS`, `HTML`, `Vue.js`, `PHP`, `Docker`\
+<br/>
+
+<img align="left" height="94px" width="94px" alt="Code Group" src="https://media-exp1.licdn.com/dms/image/C4E0BAQG5vstBVawMrg/company-logo_200_200/0/1595541261965?e=1673481600&v=beta&t=xhoQJlXQWAOQUIy9FmtqVGVOjxIWytYTaKNQeSNgusU"/>
+
+**Frot-end Developer (Jr)** \
+**01/22** • **07/22** \
+Languages & Tools: `JavaScript`, `CSS`, `HTML`, `Vue.js`, `PHP`\
+<br/>
+
+<img align="left" height="94px" width="94px" alt="Inss" src="https://media-exp1.licdn.com/dms/image/C510BAQEHnOIxpUqg-A/company-logo_200_200/0/1519896860976?e=1673481600&v=beta&t=btOHNJgwvV3n6s16LEqOpqj4dCJdJZIuFpHz9pt6nf4"/>
+
+**Intern** \
+**02/21** • **01/22** \
+Languages & Tools: `PHP`, `Laravel`, `SQLite`, `Vue.js`, `Python`, `Jupyter Notebook`, `CSS`, `HTML`, `JavaScript` \
+<br/>
+
+<img align="left" height="94px" width="94px" alt="Sebrae" src="https://media-exp1.licdn.com/dms/image/D4D0BAQGCEfn6-5gT-A/company-logo_200_200/0/1664979607982?e=1673481600&v=beta&t=umfxRHkrZj0gcrLu82i3x3_nO_XOw6NcIszbLLVtV3c"/>
+
+**Intern** \
+**01/20** • **01/21** \
+Languages & Tools: `PHP`, `Yii2`, `MySQL`, `CSS`, `HTML`, `JavaScript` \
+<br/>
