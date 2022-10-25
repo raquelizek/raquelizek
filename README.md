@@ -71,9 +71,9 @@
 
 <img align="left" height="94px" width="94px" alt="Omny" src="https://media-exp1.licdn.com/dms/image/C4D0BAQE_AEazyT664Q/company-logo_200_200/0/1648152856557?e=1673481600&v=beta&t=FQg9fF8IvasoGXi5Q1r7jtPmEEDQUeRJVe3xwrTHFSI"/>
 
-**Front-End Developer (Jr)** \
+**Full-Stack Developer (Jr)** \
 **07/22** • **Present** \
-Languages & Tools: `JavaScript`, `CSS`, `HTML`, `Vue.js`, `PHP`, `Docker`\
+Languages & Tools: `JavaScript`, `CSS`, `HTML`, `Vue.js`, `PHP`, `Docker`, `Magento 2`\
 <br/>
 
 <img align="left" height="94px" width="94px" alt="Code Group" src="https://media-exp1.licdn.com/dms/image/C4E0BAQG5vstBVawMrg/company-logo_200_200/0/1595541261965?e=1673481600&v=beta&t=xhoQJlXQWAOQUIy9FmtqVGVOjxIWytYTaKNQeSNgusU"/>
