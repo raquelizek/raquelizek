@@ -50,8 +50,8 @@
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg"><img src="https://cdn.freebiesupply.com/logos/large/2x/composer-logo-svg-vector.svg" height="auto" width="40" style="max-width: 100%;"></a>
 <br>
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="auto" width="40" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg"><img src="https://www.freepnglogos.com/uploads/linux-png/linux-tux-logo-png-transparent-svg-vector-bie-supply-14.png" height="auto" width="40" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg"><img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png" height="auto" width="40" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Tux.png/220px-Tux.png" height="auto" width="40" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg"><img src="https://logodownload.org/wp-content/uploads/2016/10/mysql-logo.png" height="auto" width="60" style="max-width: 100%;"></a>
 
 
 
