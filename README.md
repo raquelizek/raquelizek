@@ -69,28 +69,28 @@
 
 ### Work experience
 
-<img align="left" height="94px" width="94px" alt="Omny" src="https://media-exp1.licdn.com/dms/image/C4D0BAQE_AEazyT664Q/company-logo_200_200/0/1648152856557?e=1673481600&v=beta&t=FQg9fF8IvasoGXi5Q1r7jtPmEEDQUeRJVe3xwrTHFSI"/>
+<img align="left" height="94px" width="94px" alt="Omny" src="https://cdn-icons-png.flaticon.com/512/9677/9677900.png"/>
 
 **Full-Stack Developer (Jr)** \
 **07/22** • **Present** \
 Languages & Tools: `JavaScript`, `CSS`, `HTML`, `Vue.js`, `PHP`, `Docker`, `Magento 2`\
 <br/>
 
-<img align="left" height="94px" width="94px" alt="Code Group" src="https://media-exp1.licdn.com/dms/image/C4E0BAQG5vstBVawMrg/company-logo_200_200/0/1595541261965?e=1673481600&v=beta&t=xhoQJlXQWAOQUIy9FmtqVGVOjxIWytYTaKNQeSNgusU"/>
+<img align="left" height="94px" width="94px" alt="Code Group" src="https://cdn-icons-png.flaticon.com/512/9677/9677900.png"/>
 
 **Frot-end Developer (Jr)** \
 **01/22** • **07/22** \
 Languages & Tools: `JavaScript`, `CSS`, `HTML`, `Vue.js`, `PHP`\
 <br/>
 
-<img align="left" height="94px" width="94px" alt="Inss" src="https://media-exp1.licdn.com/dms/image/C510BAQEHnOIxpUqg-A/company-logo_200_200/0/1519896860976?e=1673481600&v=beta&t=btOHNJgwvV3n6s16LEqOpqj4dCJdJZIuFpHz9pt6nf4"/>
+<img align="left" height="94px" width="94px" alt="Inss" src="https://cdn-icons-png.flaticon.com/512/9677/9677900.png"/>
 
 **Intern** \
 **02/21** • **01/22** \
 Languages & Tools: `PHP`, `Laravel`, `SQLite`, `Vue.js`, `Python`, `Jupyter Notebook`, `CSS`, `HTML`, `JavaScript` \
 <br/>
 
-<img align="left" height="94px" width="94px" alt="Sebrae" src="https://media-exp1.licdn.com/dms/image/D4D0BAQGCEfn6-5gT-A/company-logo_200_200/0/1664979607982?e=1673481600&v=beta&t=umfxRHkrZj0gcrLu82i3x3_nO_XOw6NcIszbLLVtV3c"/>
+<img align="left" height="94px" width="94px" alt="Sebrae" src="https://cdn-icons-png.flaticon.com/512/9677/9677900.png"/>
 
 **Intern** \
 **01/20** • **01/21** \
