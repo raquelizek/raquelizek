@@ -71,28 +71,28 @@
 
 <img align="left" height="94px" width="94px" alt="Omny" src="https://cdn-icons-png.flaticon.com/512/9677/9677900.png"/>
 
-**Full-Stack Developer (Jr)** \
+**Full-Stack Developer at Omny Brasil** \
 **07/22** • **Present** \
 Languages & Tools: `JavaScript`, `CSS`, `HTML`, `Vue.js`, `PHP`, `Docker`, `Magento 2`\
 <br/>
 
 <img align="left" height="94px" width="94px" alt="Code Group" src="https://cdn-icons-png.flaticon.com/512/9677/9677900.png"/>
 
-**Frot-end Developer (Jr)** \
+**Frot-end Developer (Jr) at Code Group** \
 **01/22** • **07/22** \
 Languages & Tools: `JavaScript`, `CSS`, `HTML`, `Vue.js`, `PHP`\
 <br/>
 
 <img align="left" height="94px" width="94px" alt="Inss" src="https://cdn-icons-png.flaticon.com/512/9677/9677900.png"/>
 
-**Intern** \
+**Intern at Inss/DF** \
 **02/21** • **01/22** \
 Languages & Tools: `PHP`, `Laravel`, `SQLite`, `Vue.js`, `Python`, `Jupyter Notebook`, `CSS`, `HTML`, `JavaScript` \
 <br/>
 
 <img align="left" height="94px" width="94px" alt="Sebrae" src="https://cdn-icons-png.flaticon.com/512/9677/9677900.png"/>
 
-**Intern** \
+**Intern at Sebrae/DF** \
 **01/20** • **01/21** \
 Languages & Tools: `PHP`, `Yii2`, `MySQL`, `CSS`, `HTML`, `JavaScript` \
 <br/>
