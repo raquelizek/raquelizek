@@ -71,8 +71,15 @@
 
 <img align="left" height="94px" width="94px" alt="Omny" src="https://cdn-icons-png.flaticon.com/512/9677/9677900.png"/>
 
-**Full-Stack Developer at Omny Brasil** \
-**07/22** • **Present** \
+**Full-Stack Developer Pleno at Performa Tech** \
+**03/23** • **Present** \
+Languages & Tools: `JavaScript`, `CSS`, `HTML`, `Vue.js`, `PHP`, `Laravel`, `Typerscript`, `SASS`\
+<br/>
+
+<img align="left" height="94px" width="94px" alt="Omny" src="https://cdn-icons-png.flaticon.com/512/9677/9677900.png"/>
+
+**Full-Stack Developer Jr. at Omny Brasil** \
+**07/22** • **02/23** \
 Languages & Tools: `JavaScript`, `CSS`, `HTML`, `Vue.js`, `PHP`, `Docker`, `Magento 2`\
 <br/>
 
