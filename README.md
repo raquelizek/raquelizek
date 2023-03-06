@@ -71,7 +71,7 @@
 
 <img align="left" height="94px" width="94px" alt="Omny" src="https://cdn-icons-png.flaticon.com/512/9677/9677900.png"/>
 
-**Full-Stack Developer Pleno at Performa Tech** \
+**Full-Stack Developer at Performa Tech** \
 **03/23** • **Present** \
 Languages & Tools: `JavaScript`, `CSS`, `HTML`, `Vue.js`, `PHP`, `Laravel`, `Typerscript`, `SASS`\
 <br/>
