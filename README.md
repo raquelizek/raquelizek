@@ -76,7 +76,7 @@
 
 **Full-Stack Developer at Performa Tech** \
 **03/23** • **Present** \
-Languages & Tools: `JavaScript`, `CSS`, `HTML`, `Vue.js`, `Typerscript`, `SASS`, `PHP`, `Laravel`, `Docker`, `MYSQL`\
+Languages & Tools: `JavaScript`, `CSS`, `HTML`, `Vue.js`, `TypeScript`, `SASS`, `PHP`, `Laravel`, `Docker`, `MYSQL`\
 <br/>
 
 <img align="left" height="94px" width="94px" alt="Omny" src="https://cdn-icons-png.flaticon.com/512/9677/9677900.png"/>
