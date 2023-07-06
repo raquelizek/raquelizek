@@ -74,6 +74,13 @@
 
 <img align="left" height="94px" width="94px" alt="Omny" src="https://cdn-icons-png.flaticon.com/512/9677/9677900.png"/>
 
+**Full-Stack Developer at Grupo Intra** \
+**06/23** • **Present** \
+Languages & Tools: `JavaScript`, `CSS`, `HTML`, `Vue.js`, `SASS`, `Nuxt.js`\
+<br/>
+
+<img align="left" height="94px" width="94px" alt="Omny" src="https://cdn-icons-png.flaticon.com/512/9677/9677900.png"/>
+
 **Full-Stack Developer at Performa Tech** \
 **03/23** • **Present** \
 Languages & Tools: `JavaScript`, `CSS`, `HTML`, `Vue.js`, `TypeScript`, `SASS`, `PHP`, `Laravel`, `Docker`, `MYSQL`\
