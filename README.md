@@ -32,12 +32,15 @@
 - **I'm a hopeful web developer 💻**
 - **I am a true psychology lover 🧠**
 
-<h3 align="left">Languages and Tools:</h3>
+
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=raquelizek&layout=compact&theme=dracula)
 <a target="_blank" align="center">
   <img src="https://i.ibb.co/b633qsV/Pics-Art-11-30-03-56-57.png" align="right" height="auto" width="200"
     style="max-width: 100%;">
 
 </a>
+
+<h3 align="left">Languages and Tools:</h3>
 
 
 <h4>✔️ Experience:</h4>
@@ -68,6 +71,8 @@
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/512px-Nuxt_logo.svg.png?20201218211241" height="auto" width="47" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1280px-SQLite370.svg.png" height="auto" width="52" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" height="auto" width="42" style="max-width: 100%;"></a>
+
+
 
 
 ### Work experience
