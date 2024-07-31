@@ -60,9 +60,6 @@
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="auto" width="40" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Tux.png/220px-Tux.png" height="auto" width="40" style="max-width: 100%;"></a>
 
-https://pbs.twimg.com/media/DG-jVJaWAAA8r6j.jpg
-
-
 <h4>🚧 Learning:</h4> 
 
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="auto" width="40" style="max-width: 100%;"></a>
