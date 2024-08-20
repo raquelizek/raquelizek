@@ -85,7 +85,7 @@ Languages & Tools: `React`, `CSS`, `Javascript`, `Next.js`, `Typescript`, `Style
 <img align="left" height="94px" width="94px" alt="Grupo-intra" src="https://media.licdn.com/dms/image/v2/C560BAQEk--QChQ0wjA/company-logo_200_200/company-logo_200_200/0/1645023289723/grupo_intra_de_ensino_e_pesquisa_a_distancia_logo?e=1732147200&v=beta&t=ZzNzAHW2yUozRx0ofPAqT3F1EtUG-ElaWhCOpScyfOE"/>
 
 **Full-Stack Developer at Grupo Intra** \
-**06/23** • **Present** \
+**06/23** • **11/23** \
 Languages & Tools: `JavaScript`, `CSS`, `HTML`, `Vue.js`, `SASS`, `Nuxt.js`\
 <br/>
 
