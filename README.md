@@ -75,49 +75,40 @@
 
 ### Work experience
 
-<img align="left" height="94px" width="94px" alt="Frst-falconi" src="https://media.licdn.com/dms/image/v2/C4D0BAQG3r8mCvZNvDQ/company-logo_200_200/company-logo_200_200/0/1678284850971/frstfalconi_logo?e=1732147200&v=beta&t=i2Rhtc4cITRZYIYpEmUYhejJL__pT2NYT58tfhR2WMM"/>
+**Full-Stack Developer at NTASK LTDA** \
+**06/24** • **Present** \
+Languages & Tools: `Vue.js`, `Laravel`, `CSS`, `Nuxt.js`, `Typescript`, `RabbitMQ`, `Google Cloud`, `Firebase`\
+<br/>
 
 **Front-End Developer at FRST Falconi** \
 **10/23** • **Present** \
 Languages & Tools: `React`, `CSS`, `Javascript`, `Next.js`, `Typescript`, `Styled-Components`, `Storybook`\
 <br/>
 
-<img align="left" height="94px" width="94px" alt="Grupo-intra" src="https://media.licdn.com/dms/image/v2/C560BAQEk--QChQ0wjA/company-logo_200_200/company-logo_200_200/0/1645023289723/grupo_intra_de_ensino_e_pesquisa_a_distancia_logo?e=1732147200&v=beta&t=ZzNzAHW2yUozRx0ofPAqT3F1EtUG-ElaWhCOpScyfOE"/>
-
 **Full-Stack Developer at Grupo Intra** \
 **06/23** • **11/23** \
 Languages & Tools: `JavaScript`, `CSS`, `HTML`, `Vue.js`, `SASS`, `Nuxt.js`\
 <br/>
-
-<img align="left" height="94px" width="94px" alt="Performa-tech" src="https://static.vecteezy.com/system/resources/previews/011/356/466/non_2x/default-employee-avatar-profile-icon-worker-businessman-photo-vector.jpg"/>
 
 **Full-Stack Developer at Performa Tech** \
 **03/23** • **10/23** \
 Languages & Tools: `JavaScript`, `CSS`, `HTML`, `Vue.js`, `TypeScript`, `SASS`, `PHP`, `Laravel`, `Docker`, `MYSQL`\
 <br/>
 
-<img align="left" height="94px" width="94px" alt="Omny" src="https://media.licdn.com/dms/image/v2/C4D0BAQE_AEazyT664Q/company-logo_200_200/company-logo_200_200/0/1648152857255/omny_brasil_logo?e=1732147200&v=beta&t=G7Pw9o057EJfzhz6BzX3kQfy0XgP4xfw_-OtwsTdMoM"/>
-
 **Full-Stack Developer Jr. at Omny Brasil** \
 **07/22** • **02/23** \
 Languages & Tools: `JavaScript`, `CSS`, `HTML`, `Vue.js`, `PHP`, `Docker`, `Magento 2`, `Elatic Search`\
 <br/>
-
-<img align="left" height="94px" width="94px" alt="Code Group" src="https://media.licdn.com/dms/image/v2/C4E0BAQG5vstBVawMrg/company-logo_200_200/company-logo_200_200/0/1630621866889?e=1732147200&v=beta&t=_RPHn2SWBNNGdTNdYN7n4EECA2f_NkQVDXqDjJW4BbY"/>
 
 **Frot-end Developer (Jr) at Code Group** \
 **01/22** • **07/22** \
 Languages & Tools: `JavaScript`, `CSS`, `HTML`, `Vue.js`, `PHP`\
 <br/>
 
-<img align="left" height="94px" width="94px" alt="Inss" src="https://media.licdn.com/dms/image/v2/C510BAQEHnOIxpUqg-A/company-logo_100_100/company-logo_100_100/0/1631393177325?e=1732147200&v=beta&t=3bqklbG2YhEA4Yf2EXusSQe7-g0UMWC0VXSLDPxJ4Vo"/>
-
 **Intern at Inss/DF** \
 **02/21** • **01/22** \
 Languages & Tools: `PHP`, `Laravel`, `SQLite`, `Vue.js`, `Python`, `Jupyter Notebook`, `CSS`, `HTML`, `JavaScript` \
 <br/>
-
-<img align="left" height="94px" width="94px" alt="Sebrae" src="https://media.licdn.com/dms/image/v2/D4D0BAQFy4hc2h-CiGQ/company-logo_100_100/company-logo_100_100/0/1697027862887/sebraedf_logo?e=1732147200&v=beta&t=h-h3Z9-pZ5rjKiQ0EQWCdeh3OypiOCd31OhFSRGbvPI"/>
 
 **Intern at Sebrae/DF** \
 **01/20** • **01/21** \
