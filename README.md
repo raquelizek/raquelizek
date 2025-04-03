@@ -75,14 +75,14 @@
 
 ### Work experience
 
-**Full-Stack Developer at NTASK LTDA** \
-**06/24** • **01/25** \
-Languages & Tools: `Vue.js`, `Laravel`, `CSS`, `Nuxt.js`, `Typescript`, `RabbitMQ`, `Google Cloud`, `Firebase`\
-<br/>
-
 **Front-End Developer at FRST Falconi** \
 **10/23** • **Present** \
 Languages & Tools: `React`, `CSS`, `Javascript`, `Next.js`, `Typescript`, `Styled-Components`, `Storybook`\
+<br/>
+
+**Full-Stack Developer at NTASK LTDA** \
+**06/24** • **01/25** \
+Languages & Tools: `Vue.js`, `Laravel`, `CSS`, `Nuxt.js`, `Typescript`, `RabbitMQ`, `Google Cloud`, `Firebase`\
 <br/>
 
 **Full-Stack Developer at Grupo Intra** \
