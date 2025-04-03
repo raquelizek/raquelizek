@@ -76,7 +76,7 @@
 ### Work experience
 
 **Full-Stack Developer at NTASK LTDA** \
-**06/24** • **Present** \
+**06/24** • **01/25** \
 Languages & Tools: `Vue.js`, `Laravel`, `CSS`, `Nuxt.js`, `Typescript`, `RabbitMQ`, `Google Cloud`, `Firebase`\
 <br/>
 
