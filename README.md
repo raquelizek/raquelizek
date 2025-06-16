@@ -12,11 +12,12 @@
 <p align="center">
 
 <div align="center" class="icons-social" style="margin-left: 10px;">
-<a href="mailto:joao@example.com?subject=Reunião%20importante&body=Olá%20João,%0A%0AGostaria%20de%20marcar%20uma%20reunião%20sobre%20o%20projeto.%0A%0AObrigado!" target="_blank">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=joao@example.com&su=Reunião%20importante&body=Olá%20João,%0A%0AGostaria%20de%20marcar%20uma%20reunião%20sobre%20o%20projeto.%0A%0AObrigado!" target="_blank">
   <img align="center"
-    src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="azzar"
+    src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail"
     height="30" />
 </a>
+
 
   <a href="https://www.instagram.com/raquelizek/" target="blank"><img align="center"
       src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
