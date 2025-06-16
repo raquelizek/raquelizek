@@ -12,9 +12,12 @@
 <p align="center">
 
 <div align="center" class="icons-social" style="margin-left: 10px;">
-  <a href="mailto:joao@example.com?subject=Reunião%20importante&body=Olá%20João,%0A%0AGostaria%20de%20marcar%20uma%20reunião%20sobre%20o%20projeto.%0A%0AObrigado!" target="blank"><img align="center"
-      src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="azzar"
-      height="30" /></a>
+<a href="mailto:joao@example.com?subject=Reunião%20importante&body=Olá%20João,%0A%0AGostaria%20de%20marcar%20uma%20reunião%20sobre%20o%20projeto.%0A%0AObrigado!" target="_blank">
+  <img align="center"
+    src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="azzar"
+    height="30" />
+</a>
+
   <a href="https://www.instagram.com/raquelizek/" target="blank"><img align="center"
       src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
       alt="azzar" height="30" /></a>
