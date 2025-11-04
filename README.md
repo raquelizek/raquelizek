@@ -29,14 +29,6 @@
 - **I'm a hopeful web developer 💻**
 - **I am a true psychology lover 🧠**
 
-
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=raquelizek&layout=compact&theme=dracula)
-<a target="_blank" align="center">
-  <img src="https://i.ibb.co/b633qsV/Pics-Art-11-30-03-56-57.png" align="right" height="300" width="300"
-    style="max-width: 100%;">
-</a>
-
-
 ### Work experience
 
 **Full-Stack Developer at Globo** \
