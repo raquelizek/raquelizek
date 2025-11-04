@@ -39,8 +39,13 @@
 
 ### Work experience
 
+**Full-Stack Developer at Globo** \
+**10/25** • **Present** \
+Languages & Tools: `Vue.js`, `CSS`, `Javascript`, `Typescript`, `Vuetify`, `Docker`, `.NET`\
+<br/>
+
 **Front-End Developer at FRST Falconi** \
-**10/23** • **Present** \
+**10/23** • **10/25** \
 Languages & Tools: `React`, `CSS`, `Javascript`, `Next.js`, `Typescript`, `Styled-Components`, `Storybook`\
 <br/>
 
