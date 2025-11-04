@@ -31,7 +31,7 @@
 
 ### Work experience
 
-**Full-Stack Developer at Globo** \
+**Full-Stack Developer at TV Globo** \
 **10/25** • **Present** \
 Languages & Tools: `Vue.js`, `CSS`, `Javascript`, `Typescript`, `Vuetify`, `Docker`, `.NET`\
 <br/>
